@@ -25,8 +25,6 @@ Additionally, the app ensures that users provide a valid CEP and displays an ale
   <br>
   <img src="./src/assets/screenshot3.png" alt="Screenshot 3" width="300">
   <br>
-  <br>
-  <img src="./src/assets/screenshot4.png" alt="Screenshot 4" width="300">
 
 ## Technologies Used
 
